@@ -1,0 +1,31 @@
+<scheme name="Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-09-27T13:12:00</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="modified">2021-09-27T13:12:09</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ffee00" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="e90bfa" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="e90bfa" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="16dbee" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
