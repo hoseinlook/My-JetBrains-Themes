@@ -1,0 +1,77 @@
+<scheme name="Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-10-12T20:40:42</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2022.3.0.0</property>
+    <property name="modified">2022-10-12T20:40:53</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="Scala Abstract class">
+      <value>
+        <option name="FOREGROUND" value="ffd42c" />
+      </value>
+    </option>
+    <option name="Scala Anonymous Parameter">
+      <value>
+        <option name="FOREGROUND" value="4dcdde" />
+      </value>
+    </option>
+    <option name="Scala Class">
+      <value>
+        <option name="FOREGROUND" value="ffd42c" />
+      </value>
+    </option>
+    <option name="Scala Class method call">
+      <value>
+        <option name="FOREGROUND" value="d633e8" />
+      </value>
+    </option>
+    <option name="Scala For statement value">
+      <value>
+        <option name="FOREGROUND" value="4dcdde" />
+      </value>
+    </option>
+    <option name="Scala Immutable Collection">
+      <value>
+        <option name="FOREGROUND" value="ee86c" />
+      </value>
+    </option>
+    <option name="Scala Mutable Collection">
+      <value>
+        <option name="FOREGROUND" value="ee86c" />
+      </value>
+    </option>
+    <option name="Scala Object">
+      <value>
+        <option name="FOREGROUND" value="8ab7fc" />
+      </value>
+    </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FOREGROUND" value="d633e8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Scala Parameter">
+      <value>
+        <option name="FOREGROUND" value="4dcdde" />
+      </value>
+    </option>
+    <option name="Scala Trait">
+      <value>
+        <option name="FOREGROUND" value="ffd42c" />
+      </value>
+    </option>
+    <option name="Scala XML attribute name">
+      <value>
+        <option name="FOREGROUND" value="de5555" />
+      </value>
+    </option>
+    <option name="StandardF Java Collection">
+      <value>
+        <option name="FOREGROUND" value="c9b964" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
